@@ -1,2 +1,1 @@
-# notable-public
-A public repository to publish notable release and documentation
+This repository is now living at [notable](https://github.com/olup/notable)
